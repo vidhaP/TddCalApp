@@ -1,0 +1,16 @@
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Test.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Test.pdb
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Library.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\TddCalApp.Library.pdb
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csprojAssemblyReference.cache
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csproj.CoreCompileInputs.cache
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.csproj.CopyComplete
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.dll
+C:\vidha_training\webAPI\TddCalApp\TddCalApp.Test\obj\Debug\TddCalApp.Test.pdb
