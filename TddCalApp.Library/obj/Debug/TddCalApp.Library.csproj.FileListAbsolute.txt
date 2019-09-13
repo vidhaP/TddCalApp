@@ -1,6 +1,5 @@
 C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.dll
 C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\bin\Debug\TddCalApp.Library.pdb
-C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csprojAssemblyReference.cache
 C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.csproj.CoreCompileInputs.cache
 C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.dll
 C:\vidha_training\webAPI\TddCalApp\TddCalApp.Library\obj\Debug\TddCalApp.Library.pdb
